@@ -1,7 +1,7 @@
-TypeScript Jest Demo
+TypeScript jest-environment-jsdom-global Reset Location Url Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+如何使用jest-environment-jsdom-global重新配置jsdom，提供不同的url
 
 ```
 npm install
